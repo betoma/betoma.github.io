@@ -5,3 +5,4 @@ inline: true
 ---
 
 A simple inline announcement.
+Changing something -- test.
