@@ -44,21 +44,29 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: betoma # your GitHub user name
+facebook_username: sparksbet
 twitter_username: sparksbet # your Twitter handle
+instagram_username: bethanyetoma
+twitch_channel: sparksbet
+tiktok_page: sparksbet
+steam_account: sparksbet
+goodreads_page: sparksbet
+spotify_id: 21krnfigajmoh4z67biedhaii?si=zvCxIZo5RMOtpgbvC32onw
 linkedin_username: betoma # your LinkedIn user name
+xing_username: BethanyElise_Toma
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Bethany-Toma # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I pretty much never check Facebook, LinkedIn, or Xing. Email is probably the easiest way to actually reach me.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
