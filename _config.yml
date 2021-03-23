@@ -12,7 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 icon: 🌸 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
@@ -66,7 +65,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  I pretty much never check Facebook, LinkedIn, or Xing. Email is probably the easiest way to actually reach me.
+  Email is probably the easiest way to actually reach me about something serious. I make no promises about how fast I'll get back to you if you message me on one of these other services.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -147,8 +146,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Toma
+  first_name: [Bethany, B., Bethany E., B.E.]
 
   style: apa
   locale: en
