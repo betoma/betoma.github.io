@@ -73,6 +73,18 @@ a, table.table a {
       text-decoration: none;
     }
   }
+  a.btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    &:hover {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
+  }
 }
 
 
@@ -416,6 +428,30 @@ footer.sticky-bottom {
   }
 }
 
+.cv {
+  h3 {
+    border-bottom: 1px solid;
+  }
+  h4 {
+    float: right;
+    text-align: right;
+    font-size: 1em;
+  }
+  h5 {
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  h6 {
+    font-style: italic;
+  }
+  .description {
+    margin-left: 5rem;
+    clear: both;
+    margin-bottom: .8rem;
+    border-bottom: 1px;
+  }
+}
+
 // Rouge Color Customization
 code {
   color: var(--global-theme-color);
@@ -427,4 +463,20 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+// Added for Columns
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }

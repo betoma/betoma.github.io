@@ -1,14 +1,14 @@
 ---
 layout: page
-title: coding & research
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: conlanging
+permalink: /conlangs/
+description: A collection of conlanging
 nav: true
 ---
 
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% assign sorted_projects = site.conlangs | sort: "importance" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
     {% if project.redirect %}
